@@ -6,4 +6,7 @@ public class Main {
         return "Hello";
     }
 
+    public String sayJavaVersion() {
+        return "17";
+    }
 }
